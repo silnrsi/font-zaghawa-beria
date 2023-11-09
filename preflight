@@ -10,7 +10,4 @@ psfsetglyphorder -q --header sort_order -i source/glyph_data.csv source/ZaghawaB
 echo "-----Rebuilding composites..."
 psfbuildcomp -i source/composites.txt -c -n source/ZaghawaBeria-Regular.ufo -p backup=False
 
-echo "-----Updating woff metadata file..."
-psfmakewoffmetadata -q -n "ZaghawaBeria" -i "org.sil.fonts" source/ZaghawaBeria-Regular.ufo
-
 echo "-----Preflight completed!"
