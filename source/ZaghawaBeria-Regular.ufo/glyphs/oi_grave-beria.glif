@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oi_grave-beria" format="2">
+  <advance width="716"/>
+  <unicode hex="E413"/>
+  <note>
+ograve
+</note>
+  <outline>
+    <component base="oi-beria"/>
+    <component base="grave-beria" xOffset="143"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

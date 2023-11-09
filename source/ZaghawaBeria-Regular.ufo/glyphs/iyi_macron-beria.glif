@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iyi_macron-beria" format="2">
+  <advance width="738"/>
+  <unicode hex="E315"/>
+  <note>
+icircumflex
+</note>
+  <outline>
+    <component base="iyi-beria"/>
+    <component base="macron-beria" xOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

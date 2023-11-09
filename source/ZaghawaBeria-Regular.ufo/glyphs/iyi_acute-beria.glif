@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iyi_acute-beria" format="2">
+  <advance width="738"/>
+  <unicode hex="E40B"/>
+  <note>
+iacute
+</note>
+  <outline>
+    <component base="iyi-beria"/>
+    <component base="acute-beria" xOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+#!/bin/sh
+
+echo "-----Normalizing Regular UFO..."
+echo "-----Updating production names in Regular..."
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/ZaghawaBeria-Regular.ufo -x
+
+echo "-----Updating glyph orders in Regular..."
+psfsetglyphorder -q --header sort_order -i source/glyph_data.csv source/ZaghawaBeria-Regular.ufo -p backup=False -x
+
+echo "-----Rebuilding composites..."
+psfbuildcomp -i source/composites.txt -c -n source/ZaghawaBeria-Regular.ufo -p backup=False
+
+echo "-----Updating woff metadata file..."
+psfmakewoffmetadata -q -n "ZaghawaBeria" -i "org.sil.fonts" source/ZaghawaBeria-Regular.ufo
+
+echo "-----Preflight completed!"

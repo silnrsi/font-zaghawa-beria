@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ay_grave-beria" format="2">
+  <advance width="785"/>
+  <unicode hex="E402"/>
+  <note>
+Agrave
+</note>
+  <outline>
+    <component base="Ay-beria"/>
+    <component base="grave-beria" xOffset="143"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
