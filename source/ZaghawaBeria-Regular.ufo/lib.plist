@@ -103,8 +103,6 @@
     <string>nay-beria</string>
     <string>yay-beria</string>
     <string>gna-beria</string>
-    <string>grave-beria</string>
-    <string>acute-beria</string>
     <string>Gay-beria</string>
     <string>Iyi-beria</string>
     <string>Djay-beria</string>
@@ -133,8 +131,6 @@
     <string>seven</string>
     <string>eight</string>
     <string>nine</string>
-    <string>macron-beria</string>
-    <string>dot-beria</string>
     <string>Day-beria</string>
     <string>comma</string>
     <string>semicolon</string>
@@ -243,6 +239,40 @@
     <string>ey_macron-beria</string>
     <string>Bay-beria</string>
     <string>Shep-beria</string>
+    <string>Yay_dot-beria</string>
+    <string>yay_dot-beria</string>
+    <string>Tchay-beria</string>
+    <string>tchay-beria</string>
+    <string>Archi-beria</string>
+    <string>archi-beria</string>
+    <string>Hiyi-beria</string>
+    <string>hiyi-beria</string>
+    <string>Iya-beria</string>
+    <string>iya-beria</string>
+    <string>Essi-beria</string>
+    <string>essi-beria</string>
+    <string>Khay-beria</string>
+    <string>khay-beria</string>
+    <string>Zay-beria</string>
+    <string>zay-beria</string>
+    <string>zero-beria</string>
+    <string>one-beria</string>
+    <string>two-beria</string>
+    <string>three-beria</string>
+    <string>four-beria</string>
+    <string>five-beria</string>
+    <string>six-beria</string>
+    <string>seven-beria</string>
+    <string>eight-beria</string>
+    <string>nine-beria</string>
+    <string>grave-beria</string>
+    <string>acute-beria</string>
+    <string>macron-beria</string>
+    <string>dot-beria</string>
+    <string>ZWSP</string>
+    <string>uni2060</string>
+    <string>circumflex-beria</string>
+    <string>dieresis-beria</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
