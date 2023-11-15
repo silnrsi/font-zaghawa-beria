@@ -10,3 +10,5 @@ For more details about this project, including its design history and acknowledg
 For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 
 For practical information about using, modifying and redistributing this font see [OFL-FAQ.txt](OFL-FAQ.txt).
+
+**Note:** Please uninstall any previous versions of the **Zaghawa Beria** font that you may have installed before you install this version. The filename is slightly different and may cause the operating system to get confused if you do not uninstall the older version first.
