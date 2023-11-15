@@ -14,6 +14,8 @@
   <string>A_y-beria.alt.glif</string>
   <key>Ay_acute-beria</key>
   <string>A_y_acute-beria.glif</string>
+  <key>Ay_dot-beria</key>
+  <string>A_y_dot-beria.glif</string>
   <key>Ay_grave-beria</key>
   <string>A_y_grave-beria.glif</string>
   <key>Ay_macron-beria</key>
@@ -94,6 +96,8 @@
   <string>O_i-beria.glif</string>
   <key>Oi_acute-beria</key>
   <string>O_i_acute-beria.glif</string>
+  <key>Oi_dot-beria</key>
+  <string>O_i_dot-beria.glif</string>
   <key>Oi_grave-beria</key>
   <string>O_i_grave-beria.glif</string>
   <key>Oi_macron-beria</key>
@@ -112,6 +116,8 @@
   <string>U_y-beria.glif</string>
   <key>Uy_acute-beria</key>
   <string>U_y_acute-beria.glif</string>
+  <key>Uy_dot-beria</key>
+  <string>U_y_dot-beria.glif</string>
   <key>Uy_grave-beria</key>
   <string>U_y_grave-beria.glif</string>
   <key>Uy_macron-beria</key>
@@ -148,6 +154,8 @@
   <string>ay-beria.alt.glif</string>
   <key>ay_acute-beria</key>
   <string>ay_acute-beria.glif</string>
+  <key>ay_dot-beria</key>
+  <string>ay_dot-beria.glif</string>
   <key>ay_grave-beria</key>
   <string>ay_grave-beria.glif</string>
   <key>ay_macron-beria</key>
@@ -296,6 +304,8 @@
   <string>iyi-beria.glif</string>
   <key>iyi_acute-beria</key>
   <string>iyi_acute-beria.glif</string>
+  <key>iyi_dot-beria</key>
+  <string>iyi_dot-beria.glif</string>
   <key>iyi_grave-beria</key>
   <string>iyi_grave-beria.glif</string>
   <key>iyi_macron-beria</key>
@@ -332,6 +342,8 @@
   <string>oi-beria.alt.glif</string>
   <key>oi_acute-beria</key>
   <string>oi_acute-beria.glif</string>
+  <key>oi_dot-beria</key>
+  <string>oi_dot-beria.glif</string>
   <key>oi_grave-beria</key>
   <string>oi_grave-beria.glif</string>
   <key>oi_macron-beria</key>
@@ -424,6 +436,8 @@
   <string>uy-beria.glif</string>
   <key>uy_acute-beria</key>
   <string>uy_acute-beria.glif</string>
+  <key>uy_dot-beria</key>
+  <string>uy_dot-beria.glif</string>
   <key>uy_grave-beria</key>
   <string>uy_grave-beria.glif</string>
   <key>uy_macron-beria</key>

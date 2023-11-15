@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uy_dot-beria" format="2">
+  <advance width="601"/>
+  <outline>
+    <component base="uy-beria"/>
+    <component base="dot-beria" xOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

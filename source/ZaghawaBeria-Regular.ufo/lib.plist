@@ -140,26 +140,33 @@
     <string>semicolon</string>
     <string>colon</string>
     <string>braceleft</string>
-    <string>bar</string>
     <string>braceright</string>
+    <string>bar</string>
     <string>parenleft</string>
     <string>parenright</string>
     <string>plus</string>
     <string>minus</string>
     <string>divide</string>
     <string>Ay_acute-beria</string>
+    <string>Ay_dot-beria</string>
     <string>ay_acute-beria</string>
+    <string>ay_dot-beria</string>
     <string>Ey_acute-beria</string>
     <string>Ey_dot-beria</string>
     <string>iyi_acute-beria</string>
+    <string>iyi_dot-beria</string>
     <string>Oi_acute-beria</string>
+    <string>Oi_dot-beria</string>
     <string>Iyi_acute-beria</string>
     <string>Iyi_dot-beria</string>
     <string>Uy_acute-beria</string>
+    <string>Uy_dot-beria</string>
     <string>oi_acute-beria</string>
+    <string>oi_dot-beria</string>
     <string>ey_acute-beria</string>
     <string>ey_dot-beria</string>
     <string>uy_acute-beria</string>
+    <string>uy_dot-beria</string>
     <string>paragraph</string>
     <string>equal</string>
     <string>bracketleft</string>
@@ -243,6 +250,8 @@
     <string>A</string>
     <key>Ay_acute-beria</key>
     <string>Aacute</string>
+    <key>Ay_dot-beria</key>
+    <string>Adotaccent</string>
     <key>Ay_grave-beria</key>
     <string>Agrave</string>
     <key>Ay_macron-beria</key>
@@ -301,6 +310,8 @@
     <string>O</string>
     <key>Oi_acute-beria</key>
     <string>Oacute</string>
+    <key>Oi_dot-beria</key>
+    <string>Odotaccent</string>
     <key>Oi_grave-beria</key>
     <string>Ograve</string>
     <key>Oi_macron-beria</key>
@@ -315,6 +326,8 @@
     <string>U</string>
     <key>Uy_acute-beria</key>
     <string>Uacute</string>
+    <key>Uy_dot-beria</key>
+    <string>Udotaccent</string>
     <key>Uy_grave-beria</key>
     <string>Ugrave</string>
     <key>Uy_macron-beria</key>
@@ -329,6 +342,8 @@
     <string>a</string>
     <key>ay_acute-beria</key>
     <string>aacute</string>
+    <key>ay_dot-beria</key>
+    <string>adotaccent</string>
     <key>ay_grave-beria</key>
     <string>agrave</string>
     <key>ay_macron-beria</key>
@@ -377,6 +392,8 @@
     <string>i</string>
     <key>iyi_acute-beria</key>
     <string>iacute</string>
+    <key>iyi_dot-beria</key>
+    <string>idotaccent</string>
     <key>iyi_grave-beria</key>
     <string>igrave</string>
     <key>iyi_macron-beria</key>
@@ -393,6 +410,8 @@
     <string>o</string>
     <key>oi_acute-beria</key>
     <string>oacute</string>
+    <key>oi_dot-beria</key>
+    <string>odotaccent</string>
     <key>oi_grave-beria</key>
     <string>ograve</string>
     <key>oi_macron-beria</key>
@@ -407,6 +426,8 @@
     <string>u</string>
     <key>uy_acute-beria</key>
     <string>uacute</string>
+    <key>uy_dot-beria</key>
+    <string>udotaccent</string>
     <key>uy_grave-beria</key>
     <string>ugrave</string>
     <key>uy_macron-beria</key>
