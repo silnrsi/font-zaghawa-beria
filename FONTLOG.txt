@@ -27,6 +27,7 @@ ChangeLog
 13 Nov 2023 (SIL) Zaghawa Beria version 1.200
 - New public repository and open source build workflow
 - Encoding remains based on Latin codepoints
+- Removed unknown composite glyph at U+00DF
 - Added two characters: upper- and lowercase erri-2 (erigo tamura)
 
 30 Apr 2019 (SIL) Zaghawa Beria version 1.001
